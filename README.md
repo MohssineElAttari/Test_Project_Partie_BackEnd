@@ -8,3 +8,7 @@ l'application doit lire un fichier .CSV au démarrage pour créer une liste des 
     -l'application doit être packagé dans un WAR
     -les 3 API doit être testable via l'interface SWAGGER UI
     -l'application doit être en JAVA 8
+
+<h2>Swagger :</h2>http://localhost:8080/swagger-ui/index.html
+<h2>Link Database HQ2 :</h2>http://localhost:8080/h2-console
+
